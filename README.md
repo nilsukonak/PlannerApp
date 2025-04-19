@@ -21,6 +21,8 @@ Gün içinde kullanıcıya bildirimler ile hatırlatma yapabilmek.
 Kotlin kullanarak android tarafında kullanıcının alarm kurmasını sağlamak.
 
 
+
+
 Uygulama Arayüzleri
 
 
