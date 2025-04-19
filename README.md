@@ -20,9 +20,15 @@ Gün içinde kullanıcıya bildirimler ile hatırlatma yapabilmek.
 
 Kotlin kullanarak android tarafında kullanıcının alarm kurmasını sağlamak.
 
+
 Uygulama Arayüzleri
+
+
 Ekran görüntülerindeki emülatör:Pixel 5 API 33
+
+
 [Yılın Ekran](lib/assets/UIscreenshots/yillik.png)
+
 
 [Ayın Ekranı](lib/assets/UIscreenshots/aylik.png)
 
